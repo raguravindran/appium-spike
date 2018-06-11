@@ -18,6 +18,7 @@ now, launch protractor test. (make sure to run npm install -g protractor)
 
 
 To run for browser
+ make the settings enabled via Safari -> Preferences -> Advanced -> check "enable Develop Menu" and then select "Develop -> Allow Remote Automation".
 from project folder run
 > ionic serve (starts app on port 8100)
 
