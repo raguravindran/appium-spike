@@ -1,0 +1,9 @@
+{
+    "Emulator" : [
+        {
+            "platformName" : "Android",
+            "platformVersion": "8.1.0",
+            "deviceName": "emulator-5554",
+            "app" : "c:\\sw\\app-debug.apk"
+        }]
+}
