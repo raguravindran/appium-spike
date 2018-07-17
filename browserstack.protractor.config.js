@@ -20,8 +20,8 @@ exports.config = {
     },
     {
         "browserName": "",
-        'browserstack.user': 'saravanaraguram1',
-        'browserstack.key': '4zXinEeQnsxJpqTtPvur',
+        'browserstack.user': 'user',
+        'browserstack.key': 'key',
         'device': 'Google Pixel',
         'realMobile': 'true',
         'os_version': '7.1',
